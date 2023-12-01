@@ -55,3 +55,17 @@ wpa_supplicant
 xfsprogs
 xorg-server
 xorg-xinit
+
+
+########################################
+#S N I G D H A O S D E S P E C I F I C #
+########################################
+
+hyperv
+xf86-video-fbdev
+open-vm-tools
+xf86-video-vmware
+qemu-guest-agent
+spice-vdagent
+virtualbox-guest-utils
+
